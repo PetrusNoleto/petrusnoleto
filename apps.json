@@ -1,0 +1,35 @@
+{
+"sistemas":[
+	"windows 11",
+	"windows 10",
+	"arch linux",
+	"debian"
+],
+"ide":[
+  	"visual studio code",
+  	"visual studio",
+  	"android studio"				
+],
+"linguagens":[
+ 	"javascript",
+ 	"typescript",
+ 	"php",
+ 	"c",
+ 	"c++",
+ 	"c#",
+ 	"rst",
+	"python"
+],
+"ferramentas":[	
+	"NodeJs",
+	"NextJs",
+	"Tauri",
+	"expo",
+	"Laravel",
+	"flutter",
+	"Docker",
+	"git",
+	"mySQL",
+	"postgreeSQl"
+]
+}
