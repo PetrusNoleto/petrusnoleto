@@ -30,6 +30,7 @@
 	"Docker",
 	"git",
 	"mySQL",
-	"postgreeSQl"
+	"postgreeSQl",
+	"DBeaver"
 ]
 }
